@@ -1,0 +1,89 @@
+<!--50
+Number 2
+true
+false
+false
+18.84
+
+Legal Statement
+----------------
+var x = 1138; yes 
+var y = 3/8; yes
+var s = "3-8"; yes
+x = y; yes
+var n = 3 - "one"; yes
+var t = "one" + "two"; yes
+var 3po = true; false
+var level_ = 11; yes
+var highNoon = false; yes
+var $ = 21.30; yes
+var z = 2000; yes
+var isBig = y > z; yes
+z = z + 1; yes
+z--; yes
+z y; false
+x = z * t; yes
+while (highNoon) { yes
+z--;
+}
+
+Snippet 1 : 10
+Snippet 2 : 15 times
+Snippet 3 : 5
+Snippet 4 : 9
+-->
+
+<!doctype html>
+<html lang="en">
+<head>
+<title>Planets</title>
+<meta charset="utf-8">
+	<script>
+		function init() {
+			var planet = document.getElementById("greenplanet");
+			planet.innerHTML = "Red Alert: hit by phaser fire!";
+		}
+		
+		function addSongs() {
+			var song1 = document.getElementById("song1");
+			var song2 = document.getElementById("song2");
+			var song3 = document.getElementById("song3");
+			song1.innerHTML = "Blue Suede Strings, by Elvis Pagely";
+			song2.innerHTML = "Great Objects on Fire, by Jerry JSON Lewis";
+			song3.innerHTML = "I Code the Line, by Johnny JavaScript";
+		}
+		
+		function makePhrases() {
+			var words1 = ["24/7", "multi-Tier", "30,000 foot", "B-to-B", "win-win"];
+			var words2 = ["empowered", "value-added", "oriented", "focused", "aligned"];
+			var words3 = ["process", "solution", "tipping-point", "strategy", "vision"];
+			var rand1 = Math.floor(Math.random() * words1.length);
+			var rand2 = Math.floor(Math.random() * words2.length);
+			var rand3 = Math.floor(Math.random() * words3.length);
+			var phrase = words1[rand1] + " " + words2[rand2] + " " + words3[rand3];
+			var phraseElement = document.getElementById("phrase");
+			phraseElement.innerHTML = phrase;
+		}
+		
+		//window.onload = init;
+		//window.onload = addSongs;
+		window.onload = makePhrases;
+	</script>
+</head>
+<body>
+	<h1>Green Planet</h1>
+		<p id="greenplanet">All is well</p>
+	<h1>Red Planet</h1>
+		<p id="redplanet">Nothing to report</p>
+	<h1>Blue Planet</h1>
+		<p id="blueplanet">All systems A-OK</p>
+	<h1>My awesome playlist</h1>
+		<ul id="playlist">
+		<li id="song1"></li>
+		<li id="song2"></li>
+		<li id="song3"></li>
+	</ul>
+	<h1>Phrase-o-Matic says:</h1>
+		<p id="phrase"></p>
+</body>
+</html>
