@@ -29,3 +29,5 @@ Redux Nuaunce - [https://github.com/facebook/flux]
 Wes Boss - [https://courses.wesbos.com/account]
 
 React Blog - [https://reactjs.co/tutorials/react-convention/learning-es6/]
+[https://learnredux.com/]
+[https://www.quora.com/Whats-the-best-place-to-learn-React-js]
