@@ -1,0 +1,14 @@
+1. Program to an interface
+2. Externalize what variess - use a factory pattern
+
+DAO Factory
+
+Internal iteration vs external iteration
+terminal operation & intermediate str
+
+Hashing - convert string value to integer to perform fast search based on index
+what is hashing
+
+HashSet, HashMap, HashTable takes O(1) for contains method reason it uses hashcode.
+
+arraylist,linkedlist takes O(n) for contains/indedOf method reason it traverses the list.
