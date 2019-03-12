@@ -1,4 +1,4 @@
-package javalearning.chapter2.objectorientedconcepts;
+package javalearning.chapter2objectorientedconcepts;
 
 /***
  *  1. All interface methods are implicitly public, even without public keyword methods are public and abstract

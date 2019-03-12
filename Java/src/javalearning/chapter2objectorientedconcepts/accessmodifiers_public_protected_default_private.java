@@ -1,4 +1,4 @@
-package javalearning.chapter2.objectorientedconcepts;
+package javalearning.chapter2objectorientedconcepts;
 
 /***
  *  1. if a method/variable is declared public, it means all other classes regardless of the package they belong to, can access member

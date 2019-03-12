@@ -1,4 +1,4 @@
-package javalearning.chapter6.collectionsex;
+package javalearning.chapter6collectionsex;
 
 import java.util.ArrayList;
 import java.util.List;
