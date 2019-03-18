@@ -1,0 +1,46 @@
+Anatomy of a JMeter test
+------------------------
+
+Test Plan 
+=========
+This is the root element of the JMeter scripts and houses the other components, such as threads, config elements, times, Preprocessors, Postprocessors, assertions and listener. It also offer a few configuration of its own.
+
+Thread Groups 
+=============
+- This is entry point of a test plan. 
+- They represent the number of threads/users JMeter will use to execute the test plan. 
+- All controllers and samplers for a test must reside under a thread group. Listener may remain under thread group or under test plan. 
+- Thread Group configuration provide options to specify the number of threads that will be used for the test plan, how long it will take for all threads to  
+  become active (ramp up ) and the number of times test will be executed.
+  
+Controllers 
+===========
+Controllers drive the processing of  a test and comes in two flavors -
+ 1. Sampler controller - sampler controller sends reqest to a server. These includes HTTP, FTP, JDBC etc.
+ 
+  List of sampler controllers - 
+	 1.1 HTTP request
+	 1.2 JDBC Request
+	 1.3 LDAP Request
+	 1.4 SOAP/XML-RPC Requst
+	 1.5 WebService (SOAP) reqest
+	 1.6 FTP Request
+ 
+ 2. Logical Controller - This allows the customization of the logic used to send the requets. Like loop controller can be used to repeat an operation a certain number of times. if controller is for selectively executing a request. Helps customzie the logic used to decide how requests are sent to server. They can modify requests, repeat reqest, interleave request, control the duration of request execution, switch request, measure the overall time taken to perform request.
+ 
+   List of logical controller - 
+   
+Test Fragments
+==============
+A spcial type of controller is used purely for code reuse within a test plan. They exist on the test plan tree at the same level as the thread group element and are not executed unless referenced either by any include or module controller.
+
+
+Listeners 
+=========
+
+
+Timers 
+======
+
+Assertions
+==========
