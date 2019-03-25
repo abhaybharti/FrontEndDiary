@@ -1,3 +1,6 @@
+JMeter is a open source performance testing tool, it is java based, You can do testing for websites, webservices, database.
+
+
 Anatomy of a JMeter test
 ------------------------
 
@@ -26,7 +29,7 @@ Controllers drive the processing of  a test and comes in two flavors -
 	 1.5 WebService (SOAP) reqest
 	 1.6 FTP Request
  
- 2. Logical Controller - This allows the customization of the logic used to send the requets. Like loop controller can be used to repeat an operation a certain number of times. if controller is for selectively executing a request. Helps customzie the logic used to decide how requests are sent to server. They can modify requests, repeat reqest, interleave request, control the duration of request execution, switch request, measure the overall time taken to perform request.
+ 2. Logical Controller - This allows the customization of the logic used to send the requets. Like loop controller can be used to repeat an operation a certain number of times. if controller is for selectively executing a request. Helps customzie the logic used to decide how requests are sent to server. They can modify requests, repeat reqest, interleave request, control the duration of request execution, switch request, measure the overall time taken to perform request. it is like a container which holds steps.
  
    List of logical controller - 
    
@@ -39,8 +42,35 @@ Listeners
 =========
 
 
-Timers 
+Timers  
 ======
 
 Assertions
 ==========
+
+Performance Testing
+===================
+performance testing is in general, a testing practice performed to determine how a system performs in terms of responsiveness and stability under a particular workload. It can also serve to investigate, measure, validate or verify other quality attributes of the system, such as scalability, reliability and resource usage.
+
+Responsiveness - response of application
+
+Throughput - request per second, number of unit of work in a unit of time
+
+Reliablility - should not throw denial of service
+
+Scalibility - should have ability to handle extra work load without impacting performance
+
+Assertion - are required for functional testing
+ 
+Listener - are helpful to view result data
+
+
+Regular Expression
+=================
+. any number of characters
++ at least 1 character
+[] - range of number / alphabet
+[a-z] - any alphabet from a to z
+[0-9]* - any number of digit
+
+<a class="theme-nav-link" href="/schedules" title="click to go to 'Schedules'" target="_self" data-identifyelement="18">Schedules</a>
