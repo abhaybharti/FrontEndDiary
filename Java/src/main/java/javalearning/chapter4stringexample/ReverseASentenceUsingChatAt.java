@@ -11,10 +11,10 @@ public class ReverseASentenceUsingChatAt {
         System.out.println(s2.length);
         for (int i =0; i <s2.length;i++){
             System.out.println(s2[i]);
-            String temp1=
+            String temp1="";
             for (int j = s2[i].length(); j > 0;j--){
                 String temp = s2[i];
-                String temp1 = ""+temp.charAt(j);
+                temp1 = ""+temp.charAt(j);
 
             }
             StringBuilder sb = new StringBuilder(s2[i]);
