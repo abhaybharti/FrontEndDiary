@@ -1,0 +1,192 @@
+line 11 column 1 - Warning: <script> lacks "type" attribute
+line 12 column 1 - Warning: <script> lacks "type" attribute
+line 26 column 3 - Warning: unknown attribute "sizes"
+line 27 column 3 - Warning: unknown attribute "sizes"
+line 28 column 3 - Warning: unknown attribute "sizes"
+line 29 column 3 - Warning: unknown attribute "sizes"
+line 30 column 3 - Warning: unknown attribute "sizes"
+line 34 column 3 - Warning: unknown attribute "sizes"
+line 35 column 3 - Warning: unknown attribute "sizes"
+line 36 column 3 - Warning: unknown attribute "sizes"
+line 42 column 3 - Warning: link lacks "type" attribute
+line 44 column 5 - Warning: link lacks "type" attribute
+line 46 column 3 - Warning: link lacks "type" attribute
+line 47 column 3 - Warning: link lacks "type" attribute
+line 48 column 3 - Warning: link lacks "type" attribute
+line 49 column 3 - Warning: link lacks "type" attribute
+line 50 column 3 - Warning: link lacks "type" attribute
+line 78 column 3 - Warning: <script> lacks "type" attribute
+line 86 column 1 - Warning: <script> lacks "type" attribute
+line 125 column 1 - Warning: <script> lacks "type" attribute
+line 133 column 1 - Warning: <script> lacks "type" attribute
+line 141 column 9 - Warning: link lacks "type" attribute
+line 154 column 1 - Warning: <script> lacks "type" attribute
+line 155 column 1 - Warning: <script> lacks "type" attribute
+line 157 column 3 - Warning: <script> lacks "type" attribute
+line 163 column 3 - Warning: <script> lacks "type" attribute
+line 171 column 3 - Warning: <script> lacks "type" attribute
+line 184 column 3 - Warning: <script> lacks "type" attribute
+line 194 column 7 - Warning: <style> lacks "type" attribute
+line 202 column 1 - Warning: <script> lacks "type" attribute
+line 205 column 1 - Warning: <script> lacks "type" attribute
+line 206 column 84 - Warning: Warning: unescaped & or unknown entity "&render"
+line 206 column 84 - Warning: unknown attribute "async"
+line 206 column 84 - Warning: <script> lacks "type" attribute
+line 209 column 1 - Warning: <script> lacks "type" attribute
+line 218 column 3 - Warning: <script> lacks "type" attribute
+line 223 column 7 - Warning: unknown attribute "property"
+line 224 column 1 - Warning: unknown attribute "property"
+line 225 column 1 - Warning: unknown attribute "property"
+line 226 column 2 - Warning: unknown attribute "property"
+line 227 column 1 - Warning: unknown attribute "property"
+line 228 column 3 - Warning: unknown attribute "property"
+line 234 column 1 - Warning: <body> attribute "id" lacks value
+line 237 column 1 - Warning: <script> lacks "type" attribute
+line 250 column 1 - Warning: <style> isn't allowed in <body> elements
+line 278 column 26 - Warning: trimming empty <div>
+line 282 column 7 - Warning: <script> lacks "type" attribute
+line 303 column 7 - Warning: unknown attribute "async"
+line 303 column 7 - Warning: <script> lacks "type" attribute
+line 308 column 1 - Warning: <script> lacks "type" attribute
+line 327 column 142 - Warning: trimming empty <span>
+line 344 column 3 - Warning: unknown attribute "placeholder"
+line 345 column 32 - Warning: trimming empty <span>
+line 349 column 1 - Warning: <script> lacks "type" attribute
+line 361 column 27 - Warning: trimming empty <div>
+line 362 column 26 - Warning: trimming empty <div>
+line 368 column 3 - Warning: unknown attribute "placeholder"
+line 369 column 32 - Warning: trimming empty <span>
+line 373 column 1 - Warning: <script> lacks "type" attribute
+line 467 column 3 - Warning: <style> lacks "type" attribute
+line 467 column 3 - Warning: <style> isn't allowed in <body> elements
+line 502 column 3 - Warning: trimming empty <div>
+line 503 column 1 - Warning: trimming empty <div>
+line 537 column 150 - Warning: Warning: unescaped & which should be written as &amp;
+line 541 column 22 - Warning: trimming empty <span>
+line 552 column 22 - Warning: trimming empty <span>
+line 557 column 24 - Warning: trimming empty <span>
+line 580 column 22 - Warning: trimming empty <span>
+line 588 column 22 - Warning: trimming empty <span>
+line 600 column 22 - Warning: trimming empty <span>
+line 612 column 22 - Warning: trimming empty <span>
+line 629 column 22 - Warning: trimming empty <span>
+line 640 column 22 - Warning: trimming empty <span>
+line 661 column 22 - Warning: trimming empty <span>
+line 666 column 24 - Warning: trimming empty <span>
+line 690 column 3 - Warning: <script> lacks "type" attribute
+line 702 column 22 - Warning: trimming empty <span>
+line 726 column 3 - Warning: <script> lacks "type" attribute
+line 738 column 22 - Warning: trimming empty <span>
+line 762 column 3 - Warning: <script> lacks "type" attribute
+line 774 column 22 - Warning: trimming empty <span>
+line 779 column 24 - Warning: trimming empty <span>
+line 800 column 22 - Warning: trimming empty <span>
+line 807 column 244 - Warning: Warning: unescaped & which should be written as &amp;
+line 811 column 22 - Warning: trimming empty <span>
+line 822 column 22 - Warning: trimming empty <span>
+line 834 column 22 - Warning: trimming empty <span>
+line 859 column 22 - Warning: trimming empty <span>
+line 867 column 22 - Warning: trimming empty <span>
+line 874 column 5 - Warning: <a> attribute "target" lacks value
+line 891 column 22 - Warning: trimming empty <span>
+line 896 column 24 - Warning: trimming empty <span>
+line 906 column 43 - Warning: Warning: unescaped & which should be written as &amp;
+line 917 column 33 - Warning: trimming empty <li>
+line 924 column 22 - Warning: trimming empty <span>
+line 935 column 33 - Warning: trimming empty <li>
+line 942 column 22 - Warning: trimming empty <span>
+line 948 column 105 - Warning: Warning: unescaped & which should be written as &amp;
+line 953 column 33 - Warning: trimming empty <li>
+line 960 column 22 - Warning: trimming empty <span>
+line 971 column 33 - Warning: trimming empty <li>
+line 978 column 22 - Warning: trimming empty <span>
+line 989 column 33 - Warning: trimming empty <li>
+line 996 column 22 - Warning: trimming empty <span>
+line 1,002 column 120 - Warning: Warning: unescaped & which should be written as &amp;
+line 1,007 column 33 - Warning: trimming empty <li>
+line 1,014 column 22 - Warning: trimming empty <span>
+line 1,025 column 33 - Warning: trimming empty <li>
+line 1,032 column 22 - Warning: trimming empty <span>
+line 1,038 column 147 - Warning: Warning: unescaped & which should be written as &amp;
+line 1,043 column 33 - Warning: trimming empty <li>
+line 1,050 column 22 - Warning: trimming empty <span>
+line 1,061 column 33 - Warning: trimming empty <li>
+line 1,068 column 22 - Warning: trimming empty <span>
+line 1,086 column 22 - Warning: trimming empty <span>
+line 1,091 column 9 - Warning: link isn't allowed in <div> elements
+line 1,098 column 22 - Warning: trimming empty <span>
+line 1,120 column 22 - Warning: trimming empty <span>
+line 1,130 column 3 - Warning: <style> isn't allowed in <div> elements
+line 1,156 column 5 - Warning: unknown attribute "data-gallery"
+line 1,159 column 15 - Warning: unknown attribute "data-title"
+line 1,160 column 43 - Warning: img lacks "alt" attribute
+line 1,163 column 15 - Warning: unknown attribute "data-title"
+line 1,164 column 43 - Warning: img lacks "alt" attribute
+line 1,167 column 15 - Warning: unknown attribute "data-title"
+line 1,168 column 43 - Warning: img lacks "alt" attribute
+line 1,171 column 15 - Warning: unknown attribute "data-title"
+line 1,172 column 43 - Warning: img lacks "alt" attribute
+line 1,175 column 15 - Warning: unknown attribute "data-title"
+line 1,176 column 43 - Warning: img lacks "alt" attribute
+line 1,179 column 15 - Warning: unknown attribute "data-title"
+line 1,180 column 43 - Warning: img lacks "alt" attribute
+line 1,183 column 15 - Warning: unknown attribute "data-title"
+line 1,184 column 43 - Warning: img lacks "alt" attribute
+line 1,187 column 15 - Warning: unknown attribute "data-title"
+line 1,188 column 43 - Warning: img lacks "alt" attribute
+line 1,191 column 15 - Warning: unknown attribute "data-title"
+line 1,192 column 43 - Warning: img lacks "alt" attribute
+line 1,195 column 15 - Warning: unknown attribute "data-title"
+line 1,196 column 44 - Warning: img lacks "alt" attribute
+line 1,199 column 15 - Warning: unknown attribute "data-title"
+line 1,200 column 44 - Warning: img lacks "alt" attribute
+line 1,203 column 15 - Warning: unknown attribute "data-title"
+line 1,204 column 44 - Warning: img lacks "alt" attribute
+line 1,207 column 15 - Warning: unknown attribute "data-title"
+line 1,208 column 44 - Warning: img lacks "alt" attribute
+line 1,211 column 15 - Warning: unknown attribute "data-title"
+line 1,212 column 44 - Warning: img lacks "alt" attribute
+line 1,215 column 15 - Warning: unknown attribute "data-title"
+line 1,216 column 44 - Warning: img lacks "alt" attribute
+line 1,219 column 15 - Warning: unknown attribute "data-title"
+line 1,220 column 44 - Warning: img lacks "alt" attribute
+line 1,225 column 9 - Warning: <script> lacks "type" attribute
+line 1,231 column 5 - Warning: trimming empty <div>
+line 1,235 column 22 - Warning: trimming empty <span>
+line 1,243 column 5 - Warning: unknown attribute "data-aspect-ratio"
+line 1,245 column 11 - Warning: unknown attribute "allowfullscreen"
+line 1,250 column 22 - Warning: trimming empty <span>
+line 1,258 column 5 - Warning: unknown attribute "data-aspect-ratio"
+line 1,260 column 11 - Warning: unknown attribute "allowfullscreen"
+line 1,265 column 22 - Warning: trimming empty <span>
+line 1,273 column 22 - Warning: trimming empty <span>
+line 1,286 column 22 - Warning: trimming empty <span>
+line 1,294 column 7 - Error: <section> is not recognized!
+line 1,294 column 7 - Warning: discarding unexpected <section>
+line 1,295 column 9 - Error: <header> is not recognized!
+line 1,295 column 9 - Warning: discarding unexpected <header>
+line 1,301 column 9 - Warning: discarding unexpected </header>
+line 1,302 column 7 - Warning: discarding unexpected </section>
+line 1,303 column 8 - Error: <section> is not recognized!
+line 1,303 column 8 - Warning: discarding unexpected <section>
+line 1,304 column 12 - Error: <article> is not recognized!
+line 1,304 column 12 - Warning: discarding unexpected <article>
+line 1,313 column 13 - Error: <footer> is not recognized!
+line 1,313 column 13 - Warning: discarding unexpected <footer>
+line 1,330 column 9 - Warning: discarding unexpected </footer>
+line 1,331 column 7 - Warning: discarding unexpected </article>
+line 1,332 column 11 - Error: <article> is not recognized!
+line 1,332 column 11 - Warning: discarding unexpected <article>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+211 warnings, 15 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+For further advice on how to make your pages accessible
+see "http://www.w3.org/WAI/GL". You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
